@@ -1,0 +1,11 @@
+Model Information:
+* title:	Gengar (Pokemon)
+* source:	https://sketchfab.com/3d-models/gengar-pokemon-8de4ea95338b430298edb9c9ff3df502
+* author:	Citron Legacy (https://sketchfab.com/CitronLegacy)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Gengar (Pokemon)" (https://sketchfab.com/3d-models/gengar-pokemon-8de4ea95338b430298edb9c9ff3df502) by Citron Legacy (https://sketchfab.com/CitronLegacy) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
